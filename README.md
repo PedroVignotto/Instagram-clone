@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="Preview" src=".github/preview.gif">
+  <img alt="Preview" src=".github/feed.gif">
 </p>
 
 ## 🎓 Instalação e execução
